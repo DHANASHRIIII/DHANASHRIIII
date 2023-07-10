@@ -1,4 +1,4 @@
-<!--![logo] (Github Banner.png)-->
+<img src="Github Banner.png" >
 <h1 align="center">Hi 👋, I'm Dhanashri Sonawane</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
