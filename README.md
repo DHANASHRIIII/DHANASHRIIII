@@ -2,12 +2,11 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashriiii&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashriiii" /> </p>
+<img align="right" src="601014116770475.6068beff4640a.gif" alt="Image">
 
 - 🌱 I’m currently learning **Javascript and its Frameworks**
 
 - 📫 How to reach me **dhanashrisunilsonawane147@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/dhanashri-sonawane-32b622255](www.linkedin.com/in/dhanashri-sonawane-32b622255)
 
 - ⚡ Fun fact **I am not funny**
 
